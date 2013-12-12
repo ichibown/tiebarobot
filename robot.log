@@ -1,3 +1,24 @@
-2013/12/12 00:39:26 Error: Post http://c.tieba.baidu.com/c/u/feed/atme: net/http: timeout awaiting response headers
-2013/12/12 00:39:36 Error: Post http://c.tieba.baidu.com/c/u/feed/atme: net/http: timeout awaiting response headers
-2013/12/12 00:39:46 Error: Post http://c.tieba.baidu.com/c/u/feed/atme: net/http: timeout awaiting response headers
+2013/12/12 23:10:54 NewTask: User:   From: 起凡
+2013/12/12 23:10:54 NewTask: User:   From: 豌豆荚
+2013/12/12 23:10:55 NewTask: User: 挥洒着的是泪  From: 豌豆荚
+2013/12/12 23:10:55 Error: Error Code: 300000,Error Message 未知错误
+2013/12/12 23:10:55 RetryTask: User:   From: 起凡  Content: @饶中丶牢中          @小妹妹丶给你糖         @回眸丶千年         @千伤黄盖     ...
+2013/12/12 23:10:55 NewTask: User: 干掉楼主干层主  From: 百思骑
+2013/12/12 23:10:57 NewTask: User:   From: 豌豆荚
+2013/12/12 23:10:57 NewTask: User:   From: 豌豆荚
+2013/12/12 23:10:57 NewTask: User:   From: 豌豆荚
+2013/12/12 23:10:58 Error: Error Code: 300000,Error Message 未知错误
+2013/12/12 23:10:58 RetryTask: User:   From: 豌豆荚  Content: 75  @Fierce_Bear
+2013/12/12 23:11:03 DoneTask: User: 挥洒着的是泪  From: 豌豆荚  Content: @Fierce_Bear    @法可注册不了    @故人两相忘HP  Reply: You should update latest version of SimSimi! go to Google Play to update!
+2013/12/12 23:11:08 Error: Error Code: 5,Error Message 请输入验证码
+2013/12/12 23:11:08 RetryTask: User:   From: 起凡  Content: @饶中丶牢中          @小妹妹丶给你糖         @回眸丶千年         @千伤黄盖     ...
+2013/12/12 23:11:13 Error: Error Code: 300000,Error Message 未知错误
+2013/12/12 23:11:13 RetryTask: User: 干掉楼主干层主  From: 百思骑  Content: @Fierce_Bear
+2013/12/12 23:11:18 DoneTask: User:   From: 豌豆荚  Content: @土堆上的石头    @乔升JOE    @爱如鸿羽轻    @Fierce_Bear    @挥洒着的是泪  Reply: You should update latest version of SimSimi! go to Google Play to update!
+2013/12/12 23:11:23 DoneTask: User:   From: 豌豆荚  Content: @爱如鸿羽轻     @Fierce_Bear     @挥洒着的是泪     @豌豆荚吧  Reply: You should update latest version of SimSimi! go to Google Play to update!
+2013/12/12 23:11:28 DoneTask: User:   From: 豌豆荚  Content: 2L  @乔升JOE   求置顶 吧务请注意： @爱如鸿羽轻    @Fierce_Bear    @挥洒着的是泪...  Reply: You should update latest version of SimSimi! go to Google Play to update!
+2013/12/12 23:11:33 DoneTask: User:   From: 豌豆荚  Content: 75  @Fierce_Bear  Reply: You should update latest version of SimSimi! go to Google Play to update!
+2013/12/12 23:11:38 Error: Error Code: 5,Error Message 请输入验证码
+2013/12/12 23:11:38 RetryTask: User:   From: 起凡  Content: @饶中丶牢中          @小妹妹丶给你糖         @回眸丶千年         @千伤黄盖     ...
+2013/12/12 23:11:43 Error: Error Code: 5,Error Message 请输入验证码
+2013/12/12 23:11:43 RetryTask: User: 干掉楼主干层主  From: 百思骑  Content: @Fierce_Bear

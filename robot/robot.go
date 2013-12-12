@@ -10,8 +10,8 @@ import (
 )
 
 const (
-	GET_AT_TICK    = 3
-	REPLY_AT_TICK  = 3
+	GET_AT_TICK    = 5
+	REPLY_AT_TICK  = 5
 	TASK_MAX_RETRY = 5
 )
 
