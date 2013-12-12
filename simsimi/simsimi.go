@@ -12,7 +12,6 @@ const (
 	ANOTHER_API = "http://www.xiaojo.com/bot/chata.php?chat="
 )
 
-// 大坑，json字段首字母必须大写！
 type SimResp struct {
 	Result           int
 	Sentence_link_id int
@@ -21,7 +20,6 @@ type SimResp struct {
 	Sentence_resp    string
 }
 
-// 首字母大写，public方法
 func Talk(message string) string {
 	resp, err := http.PostForm(SIMSIMI_API,
 		url.Values{

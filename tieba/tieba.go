@@ -74,7 +74,7 @@ type TiebaError struct {
 }
 
 func (e *TiebaError) Error() string {
-	return fmt.Sprintf("Error Code: %v,Error Message %v", e.Error_code, e.Error_msg)
+	return fmt.Printf("Error Code: %v,Error Message %v", e.Error_code, e.Error_msg)
 }
 
 func doPost(url string, params url.Values, cookie string) (data []byte, err error) {
